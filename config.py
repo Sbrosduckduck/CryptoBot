@@ -1,7 +1,7 @@
 import os
 
 # Токен бота
-TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', '8148706555:AAGDZk0j17b8LS-Gsh3z9KG9y61Zboh06-4')
+TOKEN = os.environ.get('TELEGRAM_BOT_TOKEN', token')
 
 # Настройки администратора
 ADMIN_EMAIL = 'sbrosduckduck@gmail.com'
